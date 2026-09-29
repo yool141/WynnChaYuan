@@ -4,8 +4,8 @@
   "domain": "quest-dialogue",
   "itemNames": false,
   "lang": "ja_jp",
-  "count": 23997,
-  "translated": 23647,
+  "count": 24049,
+  "translated": 23699,
   "note": "任務對話。這個檔案是<b>產生物</b>——請改 quest/ 底下對應任務的檔案，再跑 tools/quest-bundle.py。直接改這裡下次會被蓋掉。"
  },
  "entries": {
@@ -165550,7 +165550,7 @@
    "source": "wiki"
   },
   "The Canary Calls#123": {
-   "src": "So kindly, I will tell you again.",
+   "src": "So, kindly, I will tell you again.",
    "dst": "親切な私が、もう一度教えてあげます。",
    "role": "desc",
    "kind": "dialogue",
@@ -165561,7 +165561,7 @@
   },
   "The Canary Calls#124": {
    "src": "Fight the Canary.",
-   "dst": "カナリアと戦う。",
+   "dst": "Canaryと戦う。",
    "role": "desc",
    "kind": "objective",
    "quest": "The Canary Calls",
@@ -165591,7 +165591,7 @@
   },
   "The Canary Calls#127": {
    "src": "Let's do something I like to call, 'The Canary'.",
-   "dst": "私が「カナリア」と呼んでいるものをやりましょう。",
+   "dst": "私が「The Canary」と呼んでいるものをやりましょう。",
    "role": "desc",
    "kind": "dialogue",
    "quest": "The Canary Calls",
@@ -166518,6 +166518,526 @@
    "stage": "Stage 9",
    "speaker": "Thesead Miner",
    "source": "wiki"
+  },
+  "The Canary Calls#221": {
+   "src": "Very good! Come on then, let me introduce to you our little feathered mascot.",
+   "dst": "素晴らしい！さあ、それでは、私たちの小さな羽のあるマスコットを紹介しよう。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "Stage 1",
+   "speaker": "Thesead Miner",
+   "source": "wiki"
+  },
+  "The Canary Calls#222": {
+   "src": "I ran into a group of miners from {p}, a small mining settlement not far from where I lived. I've heard about this place.",
+   "dst": "私が住んでいた場所からそう遠くないところにある小さな鉱山集落、{p}から来た鉱夫たちのグループに偶然出会った。その場所については聞いたことがあった。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#223": {
+   "src": "It seems you have failed a lot of times. Would you like to skip this section?",
+   "dst": "何度も失敗してきたようですね。このセクションをスキップしますか？",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#224": {
+   "src": "It seems that your spells are severely weakened by the gas. You should follow the rail tracks to find a way out of the mine.",
+   "dst": "ガスによって、呪文の威力が著しく弱まっているようだ。鉱山から脱出するには、線路に沿って進むのがよいだろう。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#225": {
+   "src": "It's blocked. Perhaps there's something around to break through?",
+   "dst": "塞がっている。もしかすると、突破できる何かが近くにあるかもしれない？",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#226": {
+   "src": "The town is incredibly poor, yet they're right on top of an extremely rich coal deposit. Their future, just a stone's throw away. And yet...",
+   "dst": "その町は信じられないほど貧しいのに、すぐ下には極めて豊富な石炭鉱床が広がっている。彼らの未来は、目と鼻の先にある。それなのに……",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#227": {
+   "src": "They still manage to struggle. A struggle that would be incredibly magnified by recent events. Indeed, those miners were also searching for survivors of that earthquake.",
+   "dst": "それでも彼らは懸命に奮闘し続けている。その奮闘は、最近の出来事によってさらに桁違いに大きくなっている。実際、その鉱山労働者たちも、あの地震の生存者を捜索していたのだ。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#228": {
+   "src": "Its influence was far and wide, and its strength unlike anything ever seen before. They told me that their town was absolutely devastated beyond recognition by the earthquake.",
+   "dst": "その影響は広範囲に及び、その威力はかつてないほどだった。彼らは、地震によって自分たちの町が完全に破壊され、見分けがつかないほどになってしまったと私に話してくれた。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#229": {
+   "src": "But words cannot describe the atrocities I saw when I first entered that place.",
+   "dst": "しかし、私がその場所に初めて足を踏み入れた時に目にした残虐な光景は、言葉では言い表せない。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#230": {
+   "src": "Families struggling trying to rescue their kin who were trapped by the debris;",
+   "dst": "がれきに閉じ込められた家族を救出しようと必死になっている家族たち；",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#231": {
+   "src": "a child wandering around looking for their missing family; people frantically rummaging through the rubble to find their belongings.",
+   "dst": "行方不明になった家族を探してさまよう子供。持ち物を探して瓦礫の中を必死に探り回す人々。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#232": {
+   "src": "I heard nothing but complete silence, occasionally interrupted by the wails of the town's residents.",
+   "dst": "聞こえてきたのは完全な静寂だけで、時折、町の人々の悲鳴がそれを遮るだけだった。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#233": {
+   "src": "Despite being a grown man in my {~}'s, I could not help but feel like an innocent child at that moment.",
+   "dst": "{~}代の大人であるにもかかわらず、その瞬間私はまるで無邪気な子供のような気分にならずにはいられなかった。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#234": {
+   "src": "Such a mournful existence. If this life had any meaning to begin with, it was meant for nothing but despair.",
+   "dst": "なんとも哀れな人生だ。そもそもこの人生に何らかの意味があったとしても、それは絶望以外の何ものでもなかったのだ。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#235": {
+   "src": "One of the miners who I met earlier brought me to a nearby area underneath a cliff, which was seemingly untouched by the earthquake.",
+   "dst": "先ほど出会った鉱夫の一人が、地震の影響をほとんど受けていないように見える、崖の下にある近くの場所へ私を連れて行ってくれた。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#236": {
+   "src": "A lot of refugees made their homes here, desperately clinging on to the last thread of life. A lifestyle that I would need to adopt, whether I liked it or not.",
+   "dst": "多くの難民がここに居を構え、命の最後の糸に必死にしがみついていた。それが気に入ろうが気に入らなかろうが、私もその生き方を受け入れざるを得なかった。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#237": {
+   "src": "But to my surprise, the miner offered me some money and a job to get me back up on my feet. So incredibly kind of him. He reminded me of my mother.",
+   "dst": "ところが驚いたことに、その鉱夫は私が再び立ち直れるよう、お金と仕事を提供してくれた。なんて親切な人なんだろう。彼はまるで私の母のようだった。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#238": {
+   "src": "His name was Clight. Seemed like a nice fellow. Apparently he had gone through a similar situation as I did.",
+   "dst": "彼の名前はClightだった。いい人そうだった。どうやら、私と同じような状況を経たらしい。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#239": {
+   "src": "Not as grave as mine, though. Lost his home and everything a few years back. Sought refuge in {p}. Now, he is well off and is seeking to become the chief miner one day.",
+   "dst": "とはいえ、私の状況ほど深刻ではない。彼は数年前に家もすべてを失った。{p}に身を寄せた。今では裕福になり、いつかは鉱山の責任者になることを目指している。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#240": {
+   "src": "'When I lost everything, I tried to look towards the future,' he said. 'It was hard, but it's the mentality that keeps me going.' His words inspired me to live on another day.",
+   "dst": "「すべてを失ったとき、私は未来に目を向けようとした」と彼は言った。「辛かったけれど、その心構えがあるからこそ私は前へ進み続けられるんだ」。彼の言葉は、私にまた一日を生き抜く勇気を与えてくれた。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#241": {
+   "src": "You have already pulled this lever.",
+   "dst": "既にこのレバーを引いている。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#242": {
+   "src": "To return to your previous point, go back into the mineshaft at [{~},-{~}].",
+   "dst": "先ほどの所に戻るには、[{~},-{~}]の地点から坑道に戻ってください。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#243": {
+   "src": "I'm not even REAL!",
+   "dst": "私なんて、実在すらしてない！",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "Stage 8",
+   "speaker": "Canary",
+   "source": "captured.json"
+  },
+  "The Canary Calls#244": {
+   "src": "I'm not even REAL!",
+   "dst": "私なんて、実在すらしてない！",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "Stage 8",
+   "speaker": "Canary",
+   "source": "captured.json"
+  },
+  "The Canary Calls#245": {
+   "src": "indeed... you are the one who can destroy the colossus.",
+   "dst": "確かに……colossusを倒せるのは、あなただけなのです。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "Stage 8",
+   "speaker": "Canary",
+   "source": "captured.json"
+  },
+  "The Canary Calls#246": {
+   "src": "I'm alaready dead, how is this even possible?",
+   "dst": "私はもう死んでいるのに、どうしてこんなことがあり得る？",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "Stage 8",
+   "speaker": "Canary",
+   "source": "captured.json"
+  },
+  "The Canary Calls#247": {
+   "src": "Okay, who even put those there in the first place?",
+   "dst": "えーと、そもそもあれをそこに置いたのは誰？",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "Stage 8",
+   "speaker": "Canary",
+   "source": "captured.json"
+  },
+  "The Canary Calls#248": {
+   "src": "Seriously... Enough is enough.",
+   "dst": "マジで……もういい加減にしてくれ。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "Stage 8",
+   "speaker": "Canary",
+   "source": "captured.json"
+  },
+  "The Canary Calls#249": {
+   "src": "It felt nice the first time, but now it's...different.",
+   "dst": "最初は気持ちよかったけど、今は……何か違う。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "Stage 8",
+   "speaker": "Canary",
+   "source": "captured.json"
+  },
+  "The Canary Calls#250": {
+   "src": "Hands off of those, if you would be so kind.",
+   "dst": "お手数ですが、それには手を触れないでいただけますか。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "Stage 8",
+   "speaker": "Canary",
+   "source": "captured.json"
+  },
+  "The Canary Calls#251": {
+   "src": "'This is for your own good. Goodbye.' Those were the last words I heard from him.",
+   "dst": "「これは君のためなんだ。さよなら。」それが、彼から聞いた最後の言葉だった。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#252": {
+   "src": "Took our canary with us and everything. Just another day in the life.",
+   "dst": "Canaryも連れて行ったし、本当に何気ない日常の一日だった。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "Stage 8",
+   "speaker": "Canary",
+   "source": "captured.json"
+  },
+  "The Canary Calls#253": {
+   "src": "I was stood on a ledge overlooking a crevasse, where the gas supposedly was, to get a better look of the area.",
+   "dst": "その一帯をよりよく見渡そうと、ガスが存在するとされていたクレバスを見下ろす岩棚の上に立っていた。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "Stage 8",
+   "speaker": "Canary",
+   "source": "captured.json"
+  },
+  "The Canary Calls#254": {
+   "src": "And then... He pushed me off. As if I was some kind of piece of trash.",
+   "dst": "そして……彼は私を突き飛ばした。まるで私がゴミでもでもあるかのように。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#255": {
+   "src": "He did it, that mudder Clight. He said those words with no hesitation, no sarcasm, no nothing.",
+   "dst": "あのClightという男、やってのけたんだ。彼はためらいも皮肉も何一つなく、その言葉を口にした。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#256": {
+   "src": "It was genuine. Or, at least, I think it was. I glanced at his eyes very briefly, and I saw tears. Tears of joy? Or...sadness?",
+   "dst": "それは本物だった。少なくとも、そう思う。ほんの少しの間、彼の目を見やると、涙が浮かんでいた。喜びの涙？それとも……悲しみの涙？",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#257": {
+   "src": "I don't even know what to think anymore. Everything I've experienced, all the moments we've shared, all the trust we've had for each other.",
+   "dst": "もう、何を考えればいいのかさえわからない。私が経験してきたこと全て、私たちが共有してきた全ての瞬間、そして互いに抱いてきた信頼の全て。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#258": {
+   "src": "It was all a blatant lie. An act. And for what? Wealth? Power? Dominion? No... That is not the Clight I know. And yet, somehow, it happened.",
+   "dst": "全て露骨な嘘で芝居だった。何のために?富?権力?支配?いや…それは私が知っているClightではない。それなのにどういうわけか、そうなってしまった。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#259": {
+   "src": "It happened. Yes, it did happen. It really did happen. Happen. Happen happen happen. Happy. Yes, I am happy. The happiest person in the world. Happiness.",
+   "dst": "起こった。そう、本当に起こったんだ。本当に起こったんだよ。起こった。起こった、起こった、起こった。幸せ。そう、私は幸せだ。世界で一番幸せな人。幸せ。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#260": {
+   "src": "Indeed, happiness is the meaning of life, if you are a naive little kid. Life has no meaning.",
+   "dst": "確かに、もしあなたが世間知らずの子供なら、幸せこそが人生の意味だ。人生に意味などない。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#261": {
+   "src": "How foolish it was of me to think it had any meaning.",
+   "dst": "それに何か意味があるなんて思ってしまったなんて、なんて愚かなことだったのだろう。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#262": {
+   "src": "No... The true meaning of life is to blindly walk a path to find that fabled 'meaning', only to find no end in sight.",
+   "dst": "いや…人生の本質とは、その伝説的な「意味」を見つけようと、盲目的に道を歩み続けることにある。しかし、その道の先には、果てが見えない。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#263": {
+   "src": "Suffering leads to the pursuit of happiness, which only leads back to suffering, and so on.",
+   "dst": "苦しみは幸福の追求へとつながり、それがまた苦しみへと戻り、その繰り返しとなる。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#264": {
+   "src": "What is the point, really? Even inside my perfect {p}, people were still suffering.",
+   "dst": "結局、何の意味がある？私の完璧な{p}の中ですら、人々は依然として苦しんでいたのだから。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#265": {
+   "src": "And Clight... Was it all...pointless? Was there...any point in my existence? Maybe I'll just... No.",
+   "dst": "そしてClight…あれは全て…無意味だった?私の存在に…意味は?もしかして、私はただ…いや、違う。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#266": {
+   "src": "There is only one more thing meant for this world. Destroy what's left of it. People won't need to suffer anymore.",
+   "dst": "この世界に残された使命は、ただ一つ。残されたものをすべて破壊すること。そうすれば、人々はもう苦しむ必要がなくなる。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#267": {
+   "src": "I now finally understand why the Colossus claimed so many lives.",
+   "dst": "なぜColossusがこれほど多くの命を奪ったのか、ようやく理解できた。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#268": {
+   "src": "I have decided, at long last. My true purpose in life. Kill Clight, destroy {p}, and restore order to the world.",
+   "dst": "ついに決心した。私の人生の真の目的だ。Clightを殺し、{p}を滅ぼし、世界に秩序を取り戻すことだ。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#269": {
+   "src": "We were going down into the mines to investigate a suspicious gas leakage.",
+   "dst": "私たちは、不審なガス漏れを調査するために鉱山へと降りていった。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#270": {
+   "src": "I think I'm going insane. Strange apparitions keep appearing in the corner of my eye.",
+   "dst": "頭がおかしくなりそうだ。視界の隅に、奇妙な幻影が次々と現れる。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#271": {
+   "src": "Were they ghosts? Or real people? I couldn't tell. It constantly feels as if I'm zoning out from time to time.",
+   "dst": "あれは幽霊か?それとも実在の人物?私には見分けがつかなかった。時々、意識が遠のいてしまうような感覚が絶えずある。",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
+  },
+  "The Canary Calls#272": {
+   "src": "It's as if I am a figment of his imagination, real but not real. His judgment, clouded by perception. Wait, what did I just write?",
+   "dst": "まるで私が彼の想像の産物であるかのようだ。実在しているようで実在していない。彼の判断は認識によって曇らされている。待てよ、今私は一体何を書いた?",
+   "role": "desc",
+   "kind": "dialogue",
+   "quest": "The Canary Calls",
+   "stage": "",
+   "speaker": "",
+   "source": "captured.json"
   },
   "The Canyon Guides#000": {
    "src": "Speak to Gana at [{~}, {~}, -{~}].",
